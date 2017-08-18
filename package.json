@@ -1,0 +1,25 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "attempt at a twitterbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerfrega/twitterBot.git"
+  },
+  "keywords": [
+    "twitterbot"
+  ],
+  "author": "tyler frega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerfrega/twitterBot/issues"
+  },
+  "homepage": "https://github.com/tylerfrega/twitterBot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
